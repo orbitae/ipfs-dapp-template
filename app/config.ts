@@ -1,0 +1,5 @@
+export const PROJECT_NAME = "Orbitae";
+export const NFT_CONTRACT_ADDRESS =
+  "0xC860689054D3e5D15F77198EEf8120a3F7Ff5b8b";
+export const POOL_CONTRACT_ADDRESS =
+  "0xc2e9f25be6257c210d7adf0d4cd6e3e881ba25f8";
