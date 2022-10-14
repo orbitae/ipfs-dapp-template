@@ -1,12 +1,13 @@
-# Orbitae Template App
+# Orbitae Template DApp
 
-Welcome to your first IPFS ready DApp template!
+Welcome to your first IPFS ready Ethereum DApp template!
 
 This template features:
 
 - Typescript
 - Next.js
 - Tailwind
+- Rainbowkit
 
 ## Getting Started
 
