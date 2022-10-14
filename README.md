@@ -1,8 +1,8 @@
-# Orbitae Template DApp
+# IPFS ready DApp Template 
 
-Welcome to your first IPFS ready Ethereum DApp template!
+This project aims to help developers to launch their own ethereum dapps on IPFS in an easy way.
 
-This template features:
+The stack consists of:
 
 - Typescript
 - Next.js
